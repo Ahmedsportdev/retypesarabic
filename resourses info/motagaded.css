@@ -1,0 +1,103 @@
+body{
+    background-color: #00afff;
+    text-align: center;
+}
+.to-sa{
+    border: 2px #fff solid;
+    transform: rotate(90deg);
+    width: 90px;
+    position: relative;
+    left: 630px;
+    top: 20px;
+}
+.sa{
+    border: 2px #fff solid;
+    width: 550px;
+    position: relative;
+    left: 400px;
+    top: 65px;
+}
+.sa-one{
+    border: 2px #fff solid;
+    transform: rotate(90deg);
+    width: 30px;
+    position: relative;
+    left: 939px;
+    top: 76px;
+}
+.sa-two{
+    border: 2px #fff solid;
+    transform: rotate(90deg);
+    width: 30px;
+    position: relative;
+    left: 385px;
+    top: 76px;
+}
+.tr{
+    width: 30px;
+    transform: rotate(90deg);
+    border: 2px #fff solid;
+    position: relative;
+    top: 72px;
+    left: 660px;
+}
+.contanier-ta3ref{    
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 200px;
+    height: 250px;
+    position: relative;
+    top: 64px;
+    left: 850px;
+}
+.contanier-rogo3, .a-lot-thinks{
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 200px;
+    height: 250px;
+    position: relative;
+}
+.contanier-rogo3{
+    left: 575px;
+    top: -185px;
+}
+.a-lot-thinks{
+    top: -432px;
+    left: 300px;
+}
+.t-btn{
+    position: relative;
+    top: 120px;
+}
+.j{
+    color: #000;
+    position: relative;
+    top: 90px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+button{
+    background-color: #fff;
+    color: #0000ff;
+    position: relative;
+    top: 150px;
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 150px;
+    font-size: 17px;
+    transition: background-color 0.5s ease, transform 0.5s ease;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #f0f0f0;
+    transition: background-color 0.5s ease, transform 0.5s ease;
+}
+.think-a-lot-thinks{
+    margin: 0px;
+    position: relative;
+    border: none;
+    top: 20px;
+}
+.c-btn{
+    position: relative;
+    top: 95px;
+}
